@@ -1,0 +1,7 @@
+{
+  "PackageID": "example",
+  "PublisherID": "example",
+  "WindowsApplicationDriverUrl": "http://127.0.0.1:4723",
+  "WindowsApplicationDriverPathX64": "C:\\Program Files\\Windows Application Driver\\WinAppDriver.exe",
+  "WindowsApplicationDriverPathX86": "C:\\Program Files (x86)\\Windows Application Driver\\WinAppDriver.exe",
+}
